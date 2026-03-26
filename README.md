@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>- 🔭 Currently building and experimenting with new projects  <br>- 🌱 Learning something new every day in the world of tech  <br>- 👯 Open to collaborating on open-source, side projects, and cool ideas  <br>-  🚀 Always curious about how things work under the hood  <br>- ⚡ Fun fact: I spend more time thinking about solutions than actually coding them<br>
+#  About Me:
+##  About Me<br><br>-  Built full-stack applications using React, Node.js & MongoDB  <br>- Designed and developed REST APIs using Node.js (Express) and Python (FastAPI) <br>- Implemented authentication systems using JWT and secure session handling  <br>-  Developed scalable backend services and explored async architectures  <br>-  Currently focusing on system design, backend performance, and API scalability<br>
 
 
 ## 🌐 Socials:
